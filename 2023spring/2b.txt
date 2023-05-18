@@ -18,7 +18,7 @@ cd2023 2b	github_account	pj1	pj2	pj3
 41023206	tseYU000	pj1bg9	pj2bg2	pj3bg6
 41023207	chiiip333	pj1bg1	pj2bg13	pj3bg6
 41023208	ziyi8	pj1bg1	pj2bg13	pj3bg6
-41023210	junpig10	pj1bg3	pj1bg13	pj3bg6
+41023210	junpig10	pj1bg3	pj2bg13	pj3bg6
 41023211				pj3bg8
 41023212	yonqui0411	pj1bg18	pj2bg8	pj3bg5
 41023213	41023213	pj1bg24	pj2bg5	pj3bg7
