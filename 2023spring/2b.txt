@@ -19,7 +19,7 @@ cd2023 2b	github_account	pj1	pj2	pj3
 41023207	chiiip333	pj1bg1	pj2bg13	pj3bg6
 41023208	ziyi8	pj1bg1	pj2bg13	pj3bg6
 41023210	junpig10	pj1bg3	pj2bg13	pj3bg6
-41023211				pj3bg8
+41023211	Wmrtbij49h	pj1bg14	pj2bg3	pj3bg8
 41023212	yonqui0411	pj1bg18	pj2bg8	pj3bg5
 41023213	41023213	pj1bg24	pj2bg5	pj3bg7
 41023215	41023215	pj1bg20	pj2bg4	pj3bg2
@@ -40,7 +40,7 @@ cd2023 2b	github_account	pj1	pj2	pj3
 41023232	Yun4	pj1bg30	pj2bg9	pj3bg3
 41023233	Anguss676	pj1bg15	pj2bg6	pj3bg3
 41023234	Maskie-Razzio	pj1bg6	pj2bg12	pj3bg4
-41023236	Bored1236	pjbg17	pj2bg10	pj3bg2
+41023236	Bored1236	pj1bg17	pj2bg10	pj3bg2
 41023237	www000123	pj1bg21	pj2bg11	pj3bg7
 41023238	41023238	pj1bg19	pj2bg16	pj3bg8
 41023239	a92826	pj1bg8	pj2bg3	pj3bg8
